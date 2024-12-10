@@ -59,7 +59,7 @@ public class Event {
         }
         seat.setAvailability(true);
     }
-    
+
     public int getPriceForType(SeatType seatType) {
         if (seatType == null) {
             throw new IllegalArgumentException("SeatType must not be null");
