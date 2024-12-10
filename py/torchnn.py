@@ -19,3 +19,6 @@ class SimpleNN(nn.Module):
 model = SimpleNN()
 
 print(model)
+
+
+
