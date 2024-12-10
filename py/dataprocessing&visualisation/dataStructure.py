@@ -429,3 +429,10 @@ for arr in two_d_array:
     for value in arr:
         print(value, end=" ")
     print()
+
+
+# a = 10
+# b = 15
+# c = 20
+# max=max(a,b,c)
+
