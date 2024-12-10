@@ -1,0 +1,5 @@
+Hello, world!
+This is a sample file.
+Python file handling is simple.
+End of file.
+Appending a new line at the end.
