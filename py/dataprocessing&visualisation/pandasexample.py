@@ -1,5 +1,5 @@
 #series
-import pandasexample as pd
+import pandas as pd
 
 # 创建Series
 # (1) 从列表创建
@@ -144,7 +144,7 @@ df.to_sql('table_name', conn, if_exists='replace', index=False)
 
 
 #data manipulation
-import pandasexample as pd
+
 
 data = {
     "Name": ["Alice", "Bob", "Charlie", "David"],

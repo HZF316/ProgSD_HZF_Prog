@@ -1,4 +1,4 @@
-import numpyexamples as np
+import numpy as np
 
 # 1. 创建数组
 arr_from_list = np.array([1, 2, 3, 4, 5])  # 从列表创建一维数组
@@ -249,7 +249,7 @@ A.T
 tr=np.trace(A)
 inx=np.linalg.inv(A)
 
-import numpyexamples as np
+import numpy as np
 
 arr1 = np.array([1, 2, 3])
 arr2 = np.array([4, 5, 6])
@@ -322,7 +322,7 @@ print("stacked_axis1 shape:", stacked_axis1.shape) # (3, 2)
 
 
 
-import numpyexamples as np
+
 
 arr = np.arange(1, 13)
 print("Original 1D array:", arr)
@@ -386,7 +386,7 @@ print("d3:\n", d3)
 
 
 #slicing
-import numpyexamples as np
+
 
 # 创建一个一维数组
 arr = np.arange(10)  # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
